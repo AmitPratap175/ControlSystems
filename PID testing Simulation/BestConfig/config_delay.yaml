@@ -1,0 +1,7 @@
+SAFELIMITS: 0.8
+pan_factor: 1
+tilt_factor: 1
+Kp: 700
+Ki: 200
+Kd: 3
+SPEEDCONVERSION: 10
